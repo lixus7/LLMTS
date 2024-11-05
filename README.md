@@ -23,7 +23,7 @@ Some other nice llm for time-series repositories:
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
-| Multivariable |  [monash](https://forecastingdata.org/)   |    Time-MoE | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/abs/2409.16040) | [Pytorch](https://github.com/Time-MoE/Time-MoE)  <br>![Stars](https://img.shields.io/github/stars/Time-MoE/Time-MoE?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/Time-MoE/Time-MoE?color=critical&style=social)  | Arxiv 2024
+| TS Forecasting |  [monash](https://forecastingdata.org/)   |    Time-MoE | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/abs/2409.16040) | [Pytorch](https://github.com/Time-MoE/Time-MoE)  <br>![Stars](https://img.shields.io/github/stars/Time-MoE/Time-MoE?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/Time-MoE/Time-MoE?color=critical&style=social)  | Arxiv 2024
 
 
 # [Conferences](#content)
