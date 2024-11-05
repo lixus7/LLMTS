@@ -4,9 +4,13 @@
 Some other nice llm for time-series repositories:
 
 [creyesp/large-time-series-model-papers](https://github.com/creyesp/large-time-series-model-papers)
+
 [uctb/TSFM](https://github.com/uctb/TSFM)
+
 [wpf535236337/LLMs4TS](https://github.com/wpf535236337/LLMs4TS)
+
 [songqiang321/Time-Series-Papers](https://github.com/songqiang321/Time-Series-Papers?tab=readme-ov-file#llm-framework)
+
 
 
 
