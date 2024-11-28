@@ -20,9 +20,9 @@ Some other nice llm for time-series repositories:
 
 
 # [LLM Time Series Forecasting](#content)
-|  Task  |    Data |   Name| LLM  | Paper   |    Code    |   Publication    |
+|  Task  |    Data |   Name|  LLM  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-:  | :-: | - |
-| Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   | |   <img width=300/> |
+| Paper Nums:100+ | <img width=150/> | <img width=220/>  |  <img width=150/>  |   | |   <img width=300/> |
 | TS Forecasting |  [monash](https://forecastingdata.org/)   |    Time-MoE |  llama? |  [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/abs/2409.16040) | [Pytorch](https://github.com/Time-MoE/Time-MoE)  <br>![Stars](https://img.shields.io/github/stars/Time-MoE/Time-MoE?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/Time-MoE/Time-MoE?color=critical&style=social)  | Arxiv 2024
 | TS Forecasting |  Darts <br> [monash](https://forecastingdata.org/)  <br> Informer  |   LLMTIME |  GPT-2 <br> llama2-70B |  [Large Language Models Are Zero-Shot Time Series Forecasters](https://openreview.net/forum?id=md68e8iZK1&noteId=BYd09USAyS) | [Pytorch](https://github.com/ngruver/llmtime)  <br>![Stars](https://img.shields.io/github/stars/ngruver/llmtime?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/ngruver/llmtime?color=critical&style=social)  | NIPS 2023
 
