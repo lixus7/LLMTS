@@ -12,7 +12,7 @@ Some other nice llm for time-series repositories:
 [songqiang321/Time-Series-Papers](https://github.com/songqiang321/Time-Series-Papers?tab=readme-ov-file#llm-framework)
 
 
-
+https://github.com/ddz16/TSFpaper?tab=readme-ov-file#llm-large-language-model
 
 # Content
 
